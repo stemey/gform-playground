@@ -1,0 +1,11 @@
+{
+	"name": "gform-playground",
+	"version": "0.0.0",
+	"private": true,
+	"dependencies": {
+		"gform": "stemey/dojo-generate-form#>=0.22.2",
+		"dojo": "~1.9.1",
+		"dijit": "~1.9.1",
+		"dojox": "~1.9.1"
+	}
+}
